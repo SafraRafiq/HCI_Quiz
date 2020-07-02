@@ -1,1 +1,68 @@
+#HCI 104475: QUIZ#
+
+###QUIZ MEMBERS###
+StdID | Name
+------------ | -------------
+**63030** | **Safra Naz**
+63014 | Ramsha
+63440 | Neha Kashif
+63110 | Hifza M.Anwar
+
+###SCENARIO:###
+
+There is a Course Instructor who is forced to use zoom for lecture delivery. However, despite being a great meeting tool, webinar tool it is not a great medium for lecture delivery for several reasons.  
+
+###INTRODUCTION:###
+
+Our proposed application can help in keeping class going synchronously if anyone is having difficulty from meeting in person.
+
+###Tasks Performed### 
+
+A task is an activity which you have to do. The actual reason of using a device or interacting with an interface is to accomplish a task. Following are the tasks :- 
+
+1.###Task 1: Login###
+
+As for both Instructor and student there will be a login window allowing them to signIn or to logIn to our application. Beside these login conditions, each user will also have same other options for logIn like to connect with other apps like Google, Facebook, or LinkedIn. 
+
+2.###Task 2: Create or/ Join a Meeting###
+
+After login, a screen will appear which allows you to join a meeting or to create a new meeting and join the class. The link provided can be shared to external sources.  
+
+##INSTRUCTOR:##
+
+Following tasks will be performed by Instructor side.
+
+3.###Task 3: Start Lecture###
+
+This option will lead to new interface where students and teacher are connected over video and audio with each other. On this page several more options for chat, share file or video, screen share and logout will be displayed.
+
+###Personas###
+
+2. XYZ is a Visitor lecturer. He tries hard to maintain a good atmosphere in class room and deliver his lectures well. He finds different ways to engage their students in class activities and comes up with different ideas. He is approachable to every one for any help. His communication skills are good, whether he is speaking to any upper person or a student. He solves everything in a professional way.
+
+###Prototypes###
+
+##Mobile##
+ 
+ 
+
+
+##Tablets##
+ 
+
+ 
+
+##Desktop##
+
+
+
+ 
+
+
+### Gulf of Execution and Evaluation###
+
+and as for students they will have their own options to discover tasks relating to their lectures.
+
+
+
 
