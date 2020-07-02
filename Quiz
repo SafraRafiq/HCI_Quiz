@@ -14,8 +14,7 @@ There is a Course Instructor who is forced to use zoom for lecture delivery. How
 
 ###INTRODUCTION:###
 
-Our proposed application can help in keeping class going synchronously if anyone is having difficulty from meeting in person.Online sessions, are scheduled in a way that it creates engagement when students are remote.
-
+Our proposed application can help in keeping class going synchronously if anyone is having difficulty from meeting in person.Online sessions, are scheduled in a way that it creates engagement when students are remote.This can be used on laptops, desktops, tablets and smartphones giving students many ways to access the class session.
 ###Tasks Performed### 
 
 A task is an activity which you have to do. The actual reason of using a device or interacting with an interface is to accomplish a task. Following are the tasks :- 
@@ -59,7 +58,7 @@ If lecturer want to conduct the quiz related to the lecture, he can upload it he
 Lecturer can save their current session video and upload it here. It will help in keeping track to the classes and helps in saving time rather than putting it on other platforms. Instructor need to make sure that the materials are accessible to all students.
 
 
-9.###Task 9: Manage Students###
+9.###Task 5: Manage Students###
 
 If an unknown person enters the class which is not enroll in the class, it can be detected and will be kicked out from the class. 
 
@@ -75,6 +74,21 @@ This option will lead to new interface where students and teacher are connected.
 11. ###Task 11: Submit Assignment###
 
 This option will provide a way to submit assignments. Assignment placed by the teacher is provided. Here the students can upload their assignment and can be marked according to their submission.
+12. ###Task 12: Take Quiz###
+
+Quiz which is placed by the teachers is displayed here and within the time limit the student will try to solve the quiz. After completion of quiz student will be marked according to their submissions.
+
+13. ###Task 13: View Lecture###
+
+Student will access readings and course material here including the recorded video of the lecture they attended. In case a student is unable to attend class, he will be easily recovered what he has missed.
+
+14. ###Task 14: Ask Queries###
+
+In this option students will be provided a medium to connect to teacher and to ask questions from their Instructors about any particular topic, or how to submit a task etc.
+
+15. ###Task 15: Give Feedback###
+
+We receive feedback on our application. So that we can continue to make changes and enhance our application for the future users. From existing users’ feedback new users can have a good and interactive environment. 
 
 
 
@@ -83,7 +97,7 @@ This option will provide a way to submit assignments. Assignment placed by the t
 1. There is a Permanent lecturer ABC. She is 45 years old. She has completed her masters from Anonymous University and currently doing her Ph.D. She is good at delivering her lectures and maintain a cooperative and learning environment in class. She has good sense of humor. She is ready to help everyone and shows her concern for students. She can drive car. She tries her best to come up with solutions in every difficult situation helping her fellow mates. 
 2. XYZ is a Visitor lecturer. He tries hard to maintain a good atmosphere in class room and deliver his lectures well. He finds different ways to engage their students in class activities and comes up with different ideas. He is approachable to every one for any help. His communication skills are good, whether he is speaking to any upper person or a student. He solves everything in a professional way.
 3. XYZ is a student. She is undergraduate with the degree of BSCS, and also working as a freelancer in different platform. She is a talented and hardworking girl and also favorite among her teachers and contains good grades. She is passionate about her profession and working hard to achieve her goals. She is the most attentive student in class and submits her quiz and assignment on time. She has good sense of humor. She is ready to help everyone and shows her concern for class work.
-
+4. There is a student name xyz. He is undergraduate. He is in his 20’s. He is a hardworking boy and serious about his education although he loves his education and profession but he has been serious thought to her future. He has to work hard to achieve his goals. He is a talented.
 ###Prototypes###
 
 ##Mobile##
@@ -106,7 +120,7 @@ This option will provide a way to submit assignments. Assignment placed by the t
 
 ### Gulf of Execution and Evaluation###
 
-The aim for this project is to organize student and teacher interaction with the help of provided options or tasks they both will be able to organize their work or learning material in one place. From teacher’s point of view, they can organize the lecture material and quizzes on oneside and as for students they will have their own options to discover tasks relating to their lectures.
+The aim for this project is to organize student and teacher interaction with the help of provided options or tasks they both will be able to organize their work or learning material in one place. From teacher’s point of view, they can organize the lecture material and quizzes on oneside and as for students they will have their own options to discover tasks relating to their lectures.Our goal is to give teachers and student both relaxation in using our app.
 
 
 
