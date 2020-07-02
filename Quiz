@@ -28,29 +28,6 @@ As for both Instructor and student there will be a login window allowing them to
 
 After login, a screen will appear which allows you to join a meeting or to create a new meeting and join the class. The link provided can be shared to external sources. 
 
-8.###Task 8: Upload Lecture###
-
-Lecturer can save their current session video and upload it here. It will help in keeping track to the classes and helps in saving time rather than putting it on other platforms. Instructor need to make sure that the materials are accessible to all students.
-
-
-9.###Task 5: Manage Students###
-
-If an unknown person enters the class which is not enroll in the class, it can be detected and will be kicked out from the class. 
-
-
-##STUDENTS:##
-
-Following tasks will be performed by Instructor side.
-
-10. ###Task 10: View Tasks###
-
-This option will lead to new interface where students and teacher are connected. Several options will be displayed each with their specific tasks to perform. It will also include logout option to return to start page.
-
-11. ###Task 11: Submit Assignment###
-
-This option will provide a way to submit assignments. Assignment placed by the teacher is provided. Here the students can upload their assignment and can be marked according to their submission.
-
-
 ##INSTRUCTOR:##
 
 Following tasks will be performed by Instructor side.
@@ -75,6 +52,31 @@ Assignment will be uploaded by the lecturer and deadline will be set in order to
 7.###Task 7: Quiz###
 
 If lecturer want to conduct the quiz related to the lecture, he can upload it here and students have to complete it within the set time limit.
+
+
+8.###Task 8: Upload Lecture###
+
+Lecturer can save their current session video and upload it here. It will help in keeping track to the classes and helps in saving time rather than putting it on other platforms. Instructor need to make sure that the materials are accessible to all students.
+
+
+9.###Task 5: Manage Students###
+
+If an unknown person enters the class which is not enroll in the class, it can be detected and will be kicked out from the class. 
+
+
+##STUDENTS:##
+
+Following tasks will be performed by Instructor side.
+
+10. ###Task 10: View Tasks###
+
+This option will lead to new interface where students and teacher are connected. Several options will be displayed each with their specific tasks to perform. It will also include logout option to return to start page.
+
+11. ###Task 11: Submit Assignment###
+
+This option will provide a way to submit assignments. Assignment placed by the teacher is provided. Here the students can upload their assignment and can be marked according to their submission.
+
+
 
 ###Personas###
 
