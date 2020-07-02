@@ -59,10 +59,28 @@ Following tasks will be performed by Instructor side.
 
 This option will lead to new interface where students and teacher are connected over video and audio with each other. On this page several more options for chat, share file or video, screen share and logout will be displayed.
 
+4.###Task 4: Manage Class###
+
+This option will lead to new interface where students and teacher are connected. Several options will be displayed each with there specific tasks to perform. It will also include logout option to return to start page.
+
+5.###Task 5: Discussion with Students###
+
+An option will be given to instructors with which he will be able to discuss the lecture with the students connected through app. And their quires will be solved by the teacher himself. Instructor needs to deliver their content to their students to communicate with them. 
+
+
+6.###Task 6: Create Assignment###
+
+Assignment will be uploaded by the lecturer and deadline will be set in order to keep submission on place, making the student punctual with their assignment submissions.
+
+7.###Task 7: Quiz###
+
+If lecturer want to conduct the quiz related to the lecture, he can upload it here and students have to complete it within the set time limit.
+
 ###Personas###
 
 1. There is a Permanent lecturer ABC. She is 45 years old. She has completed her masters from Anonymous University and currently doing her Ph.D. She is good at delivering her lectures and maintain a cooperative and learning environment in class. She has good sense of humor. She is ready to help everyone and shows her concern for students. She can drive car. She tries her best to come up with solutions in every difficult situation helping her fellow mates. 
 2. XYZ is a Visitor lecturer. He tries hard to maintain a good atmosphere in class room and deliver his lectures well. He finds different ways to engage their students in class activities and comes up with different ideas. He is approachable to every one for any help. His communication skills are good, whether he is speaking to any upper person or a student. He solves everything in a professional way.
+3. XYZ is a student. She is undergraduate with the degree of BSCS, and also working as a freelancer in different platform. She is a talented and hardworking girl and also favorite among her teachers and contains good grades. She is passionate about her profession and working hard to achieve her goals. She is the most attentive student in class and submits her quiz and assignment on time. She has good sense of humor. She is ready to help everyone and shows her concern for class work.
 
 ###Prototypes###
 
