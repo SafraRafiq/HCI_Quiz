@@ -14,7 +14,7 @@ There is a Course Instructor who is forced to use zoom for lecture delivery. How
 
 ###INTRODUCTION:###
 
-Our proposed application can help in keeping class going synchronously if anyone is having difficulty from meeting in person. Online sessions, are scheduled in a way that it creates engagement when students are remote. It can also be useful to support other teaching and learning scenarios.
+Our proposed application can help in keeping class going synchronously if anyone is having difficulty from meeting in person.Online sessions, are scheduled in a way that it creates engagement when students are remote.
 
 ###Tasks Performed### 
 
@@ -27,6 +27,28 @@ As for both Instructor and student there will be a login window allowing them to
 2.###Task 2: Create or/ Join a Meeting###
 
 After login, a screen will appear which allows you to join a meeting or to create a new meeting and join the class. The link provided can be shared to external sources. 
+
+8.###Task 8: Upload Lecture###
+
+Lecturer can save their current session video and upload it here. It will help in keeping track to the classes and helps in saving time rather than putting it on other platforms. Instructor need to make sure that the materials are accessible to all students.
+
+
+9.###Task 5: Manage Students###
+
+If an unknown person enters the class which is not enroll in the class, it can be detected and will be kicked out from the class. 
+
+
+##STUDENTS:##
+
+Following tasks will be performed by Instructor side.
+
+10. ###Task 10: View Tasks###
+
+This option will lead to new interface where students and teacher are connected. Several options will be displayed each with their specific tasks to perform. It will also include logout option to return to start page.
+
+11. ###Task 11: Submit Assignment###
+
+This option will provide a way to submit assignments. Assignment placed by the teacher is provided. Here the students can upload their assignment and can be marked according to their submission.
 
 
 ##INSTRUCTOR:##
@@ -54,31 +76,6 @@ Assignment will be uploaded by the lecturer and deadline will be set in order to
 
 If lecturer want to conduct the quiz related to the lecture, he can upload it here and students have to complete it within the set time limit.
 
-
-##STUDENTS:##
-
-Following tasks will be performed by Instructor side.
-
-8.###Task 8: Upload Lecture###
-
-Lecturer can save their current session video and upload it here. It will help in keeping track to the classes and helps in saving time rather than putting it on other platforms. Instructor need to make sure that the materials are accessible to all students.
-
-
-9.###Task 5: Manage Students###
-
-If an unknown person enters the class which is not enroll in the class, it can be detected and will be kicked out from the class. 
-
-
-10. ###Task 10: View Tasks###
-
-This option will lead to new interface where students and teacher are connected. Several options will be displayed each with their specific tasks to perform. It will also include logout option to return to start page.
-
-11. ###Task 11: Submit Assignment###
-
-This option will provide a way to submit assignments. Assignment placed by the teacher is provided. Here the students can upload their assignment and can be marked according to their submission.
-
-
-
 ###Personas###
 
 1. There is a Permanent lecturer ABC. She is 45 years old. She has completed her masters from Anonymous University and currently doing her Ph.D. She is good at delivering her lectures and maintain a cooperative and learning environment in class. She has good sense of humor. She is ready to help everyone and shows her concern for students. She can drive car. She tries her best to come up with solutions in every difficult situation helping her fellow mates. 
@@ -89,24 +86,25 @@ This option will provide a way to submit assignments. Assignment placed by the t
 
 ##Mobile##
  
+![11](https://user-images.githubusercontent.com/67427853/86315633-14252c80-bc44-11ea-8f0b-22b8220dd0a2.jpeg)
  
+![12](https://user-images.githubusercontent.com/67427853/86315640-19827700-bc44-11ea-97e8-0ce28693ae25.jpeg)
 
 
 ##Tablets##
  
+![3](https://user-images.githubusercontent.com/67427853/86315564-d7f1cc00-bc43-11ea-993a-16b8755d8442.jpeg)
 
- 
+![2](https://user-images.githubusercontent.com/67427853/86315523-c7415600-bc43-11ea-901e-c9af4b043ffb.jpeg) 
 
 ##Desktop##
-
-
-
  
+![1](https://user-images.githubusercontent.com/67427853/86315383-6d409080-bc43-11ea-99e2-ae9769c6fb8f.jpeg)
 
 
 ### Gulf of Execution and Evaluation###
 
-The aim for this project is to organize student and teacher interaction with the help of provided options or tasks they both will be able to organize their work or learning material in one place. From teacher’s point of view, they can organize the lecture material and quizzes on oneside and as for students they will have their own options to discover tasks relating to their lectures. As maintaining every material on one place can be bothering so we tried our best to minimize the workload from both ends.
+The aim for this project is to organize student and teacher interaction with the help of provided options or tasks they both will be able to organize their work or learning material in one place. From teacher’s point of view, they can organize the lecture material and quizzes on oneside and as for students they will have their own options to discover tasks relating to their lectures.
 
 
 
