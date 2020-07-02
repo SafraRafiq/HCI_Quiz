@@ -14,7 +14,7 @@ There is a Course Instructor who is forced to use zoom for lecture delivery. How
 
 ###INTRODUCTION:###
 
-Our proposed application can help in keeping class going synchronously if anyone is having difficulty from meeting in person.
+Our proposed application can help in keeping class going synchronously if anyone is having difficulty from meeting in person.Online sessions, are scheduled in a way that it creates engagement when students are remote.
 
 ###Tasks Performed### 
 
@@ -26,7 +26,30 @@ As for both Instructor and student there will be a login window allowing them to
 
 2.###Task 2: Create or/ Join a Meeting###
 
-After login, a screen will appear which allows you to join a meeting or to create a new meeting and join the class. The link provided can be shared to external sources.  
+After login, a screen will appear which allows you to join a meeting or to create a new meeting and join the class. The link provided can be shared to external sources. 
+
+8.###Task 8: Upload Lecture###
+
+Lecturer can save their current session video and upload it here. It will help in keeping track to the classes and helps in saving time rather than putting it on other platforms. Instructor need to make sure that the materials are accessible to all students.
+
+
+9.###Task 5: Manage Students###
+
+If an unknown person enters the class which is not enroll in the class, it can be detected and will be kicked out from the class. 
+
+
+##STUDENTS:##
+
+Following tasks will be performed by Instructor side.
+
+10. ###Task 10: View Tasks###
+
+This option will lead to new interface where students and teacher are connected. Several options will be displayed each with their specific tasks to perform. It will also include logout option to return to start page.
+
+11. ###Task 11: Submit Assignment###
+
+This option will provide a way to submit assignments. Assignment placed by the teacher is provided. Here the students can upload their assignment and can be marked according to their submission.
+
 
 ##INSTRUCTOR:##
 
@@ -38,6 +61,7 @@ This option will lead to new interface where students and teacher are connected 
 
 ###Personas###
 
+1. There is a Permanent lecturer ABC. She is 45 years old. She has completed her masters from Anonymous University and currently doing her Ph.D. She is good at delivering her lectures and maintain a cooperative and learning environment in class. She has good sense of humor. She is ready to help everyone and shows her concern for students. She can drive car. She tries her best to come up with solutions in every difficult situation helping her fellow mates. 
 2. XYZ is a Visitor lecturer. He tries hard to maintain a good atmosphere in class room and deliver his lectures well. He finds different ways to engage their students in class activities and comes up with different ideas. He is approachable to every one for any help. His communication skills are good, whether he is speaking to any upper person or a student. He solves everything in a professional way.
 
 ###Prototypes###
@@ -61,7 +85,7 @@ This option will lead to new interface where students and teacher are connected 
 
 ### Gulf of Execution and Evaluation###
 
-and as for students they will have their own options to discover tasks relating to their lectures.
+The aim for this project is to organize student and teacher interaction with the help of provided options or tasks they both will be able to organize their work or learning material in one place. From teacher’s point of view, they can organize the lecture material and quizzes on oneside and as for students they will have their own options to discover tasks relating to their lectures.
 
 
 
